@@ -36,10 +36,10 @@ module.exports = appInfo => {
   }
   config.sequelize = {
     dialect:"mysql",
-    host:'localhost',
+    host:'shop_mysql',
     port:3306,
-    user:'root',
-    password:'admin',
+    user:'wanghao',
+    password:'wanghao123321',
     database:'kkmall',
     timezone:'+08:00',
   }

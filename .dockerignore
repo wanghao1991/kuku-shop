@@ -1,0 +1,7 @@
+.git
+*.md
+.sh
+docker-compose.yml
+Dockerfile
+node_modules
+yarn-error.log
