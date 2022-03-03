@@ -7,6 +7,7 @@ docker-compose stop || true;
 docker-compose down || true;
 
 #构建镜像
+docker-compose build;
 
 #启动并后台运行
 docker-compose up -d;

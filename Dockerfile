@@ -18,4 +18,4 @@ COPY . /usr/src/node-app/egg-shop
 EXPOSE 7001
 
 #启动 egg 应用
-CMD npm start
+CMD npm run dev

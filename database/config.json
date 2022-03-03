@@ -1,10 +1,10 @@
 {
   "development": {
     "dialect":"mysql",
-    "host":"localhost",
+    "host":"shop_mysql",
     "port":3306,
-    "username":"root",
-    "password":"admin",
+    "username":"wanghao",
+    "password":"wanghao123321",
     "database":"kkmall"
   },
   "test": {

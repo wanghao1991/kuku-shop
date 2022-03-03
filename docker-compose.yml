@@ -28,7 +28,7 @@ services:
     depends_on: 
       - shop-db
     links: 
-      - shop-db:shop_mysql
+      - shop-db
     networks: 
       - shop_net
 networks: 
